@@ -2,13 +2,11 @@ safe:        false
 baseurl:     /
 url: http://localhost:4000
 
-name: Zeno Rocha
-description: A front-end engineer who lives in Rio and works for an awesome company based in LA :)
-url: http://zenorocha.com
-domain: zenorocha.com
+name: Joey.W
+description: A engineer focus on big date processing :)
+url: https://lovesheryl.com
+domain: lovesheryl.com
 commentlinks: true
-twitter-username: zenorocha
-feedburnerurl: http://feeds.feedburner.com/zenorocha
 google-analytics-tracking-id: UA-4114546-2
 
 source:      .
