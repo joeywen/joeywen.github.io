@@ -1,6 +1,6 @@
-# [zenorocha.com](http://zenorocha.com)
+# [lovesheryl.com](http://lovesheryl.com)
 
-My personal website where I talk about front-end development like HTML5, CSS3 and JavaScript.
+My personal website , the framework where I forked from [zenorocha.com](http://zenorocha.com/).
 
 ## How it works?
 
