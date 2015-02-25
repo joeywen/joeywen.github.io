@@ -1,4 +1,4 @@
-# [lovesheryl.com](http://lovesheryl.com)
+# [lovesheryl.com](http://joeywen.github.io)
 
 My personal website , the framework where I forked from [zenorocha.com](http://zenorocha.com/).
 
