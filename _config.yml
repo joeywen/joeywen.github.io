@@ -1,11 +1,11 @@
 safe:        false
 baseurl:     /
-url: http://localhost:4000
+#url: http://localhost:4000
 
 name: Joey Wen
 description: A engineer focus on big date processing :)
-url: http://lovesheryl.com
-domain: lovesheryl.com
+#url: http://lovesheryl.com
+#domain: lovesheryl.com
 commentlinks: true
 google-analytics-tracking-id: UA-4114546-2
 
