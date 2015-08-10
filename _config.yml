@@ -3,7 +3,7 @@ baseurl:     /
 url: http://localhost:4000
 
 name: Joey Wen
-description: A engineer focus on big date processing :)
+description: A engineer focus on big data processing :)
 url: http://lovesheryl.com
 domain: lovesheryl.com
 commentlinks: true
