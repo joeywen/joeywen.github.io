@@ -17,7 +17,7 @@ paginate_path: 'blog/page:num'
 future:      true
 lsi:         false
 highlighter:    false
-markdown:    maruku
+markdown:    kramdown
 permalink:   /:title/
 paginate: 5
 
